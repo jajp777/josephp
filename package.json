@@ -13,5 +13,13 @@
         "Joseph Pradeep",
         "Joseph",
         "Pradeep"
-    ]
+    ],
+    "license": "MIT",
+    "main": "index.js",
+    "repository": "josephpradeep/josephp",
+    "author": {
+        "name": "Joseph Pradeep",
+        "email": "jajp777@gmail.com",
+        "url": "https://github.com/jajp777"
+    }
 }
