@@ -1,6 +1,6 @@
 {
     "name": "josephp",
-    "version": "2.0.1",
+    "version": "2.0.2",
     "description": "Get to know Josephp via `npx josephp`",
     "bin": {
         "josephp": "index.js"
